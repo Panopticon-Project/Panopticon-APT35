@@ -11,3 +11,5 @@ https://www.securityweek.com/ap-exclusive-iran-hackers-hunt-nuke-workers-us-offi
 https://www.securityweek.com/microsoft-takes-control-99-domains-used-iranian-cyberspies
 
 https://www.clearskysec.com/wp-content/uploads/2019/09/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf
+
+https://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-Town-2.pdf
