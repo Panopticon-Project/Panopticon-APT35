@@ -13,3 +13,5 @@ https://www.securityweek.com/microsoft-takes-control-99-domains-used-iranian-cyb
 https://www.clearskysec.com/wp-content/uploads/2019/09/The-Kittens-Are-Back-in-Town-Charming-Kitten-2019.pdf
 
 https://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-Town-2.pdf
+
+https://cyware.com/news/charming-kittens-apt-group-targets-security-researchers-from-the-us-and-the-middle-east-32fc729d/
