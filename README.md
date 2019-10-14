@@ -17,3 +17,5 @@ https://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-T
 https://cyware.com/news/charming-kittens-apt-group-targets-security-researchers-from-the-us-and-the-middle-east-32fc729d/
 
 https://www.securityweek.com/iranian-hackers-update-spear-phishing-techniques-recent-campaign
+
+https://www.computing.co.uk/ctg/news/3082586/iran-apt35-charming-kitten
