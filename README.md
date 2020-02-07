@@ -19,3 +19,5 @@ https://cyware.com/news/charming-kittens-apt-group-targets-security-researchers-
 https://www.securityweek.com/iranian-hackers-update-spear-phishing-techniques-recent-campaign
 
 https://www.computing.co.uk/ctg/news/3082586/iran-apt35-charming-kitten
+
+https://securityaffairs.co/wordpress/97430/apt/charming-kitten-phishing-campaign.html
