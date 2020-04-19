@@ -21,3 +21,5 @@ https://www.securityweek.com/iranian-hackers-update-spear-phishing-techniques-re
 https://www.computing.co.uk/ctg/news/3082586/iran-apt35-charming-kitten
 
 https://securityaffairs.co/wordpress/97430/apt/charming-kitten-phishing-campaign.html
+
+https://www.bleepingcomputer.com/news/security/hbo-hacker-was-part-of-irans-charming-kitten-elite-cyber-espionage-unit/ - old but has an identity
