@@ -25,3 +25,5 @@ https://securityaffairs.co/wordpress/97430/apt/charming-kitten-phishing-campaign
 https://www.bleepingcomputer.com/news/security/hbo-hacker-was-part-of-irans-charming-kitten-elite-cyber-espionage-unit/ - old but has an identity
 
 https://www.bloomberg.com/news/articles/2020-05-07/hackers-target-who-by-posing-as-think-tank-broadcaster
+
+https://www.reuters.com/article/us-healthcare-coronavirus-gilead-iran-ex/exclusive-iran-linked-hackers-recently-targeted-coronavirus-drugmaker-gilead-sources-idUSKBN22K2EV?il=0
