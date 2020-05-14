@@ -23,3 +23,5 @@ https://www.computing.co.uk/ctg/news/3082586/iran-apt35-charming-kitten
 https://securityaffairs.co/wordpress/97430/apt/charming-kitten-phishing-campaign.html
 
 https://www.bleepingcomputer.com/news/security/hbo-hacker-was-part-of-irans-charming-kitten-elite-cyber-espionage-unit/ - old but has an identity
+
+https://www.bloomberg.com/news/articles/2020-05-07/hackers-target-who-by-posing-as-think-tank-broadcaster
