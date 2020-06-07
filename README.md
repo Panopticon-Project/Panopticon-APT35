@@ -27,3 +27,5 @@ https://www.bleepingcomputer.com/news/security/hbo-hacker-was-part-of-irans-char
 https://www.bloomberg.com/news/articles/2020-05-07/hackers-target-who-by-posing-as-think-tank-broadcaster
 
 https://www.reuters.com/article/us-healthcare-coronavirus-gilead-iran-ex/exclusive-iran-linked-hackers-recently-targeted-coronavirus-drugmaker-gilead-sources-idUSKBN22K2EV?il=0
+
+https://www.securityweek.com/google-says-iran-linked-hackers-targeted-who
