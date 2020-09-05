@@ -37,3 +37,5 @@ https://www.securityweek.com/google-says-iran-linked-hackers-targeted-who
 https://www.securityweek.com/iran-linked-hackers-accidentally-exposed-40-gb-their-files
 
 https://www.wired.com/story/iran-apt35-hacking-video/
+
+https://securityaffairs.co/wordpress/107644/apt/charming-kitten-apt-whatsapp-linkedin.html
