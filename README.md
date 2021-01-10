@@ -41,3 +41,5 @@ https://www.wired.com/story/iran-apt35-hacking-video/
 https://securityaffairs.co/wordpress/107644/apt/charming-kitten-apt-whatsapp-linkedin.html
 
 https://cyware.com/news/charming-kitten-apt-launched-spoofing-attacks-against-key-personalities-c8152b35
+
+https://blog.certfa.com/posts/charming-kitten-christmas-gift/
