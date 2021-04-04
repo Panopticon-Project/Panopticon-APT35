@@ -45,3 +45,5 @@ https://cyware.com/news/charming-kitten-apt-launched-spoofing-attacks-against-ke
 https://blog.certfa.com/posts/charming-kitten-christmas-gift/
 
 https://www.zdnet.com/article/iranian-cyberspies-behind-major-christmas-sms-spear-phishing-campaign/
+
+https://threatpost.com/charming-kitten-pounces-on-researchers/165129/
