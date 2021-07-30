@@ -49,3 +49,5 @@ https://www.zdnet.com/article/iranian-cyberspies-behind-major-christmas-sms-spea
 https://threatpost.com/charming-kitten-pounces-on-researchers/165129/
 
 https://www.ehackingnews.com/2021/07/researchers-learn-from-itg18-groups.html
+
+https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/
