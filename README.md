@@ -53,3 +53,5 @@ https://www.ehackingnews.com/2021/07/researchers-learn-from-itg18-groups.html
 https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/
 
 https://www.securityweek.com/iran-linked-hackers-expand-arsenal-new-android-backdoor
+
+https://threatpost.com/black-hat-charming-kitten-opsec-goofs-training-videos/168394/
