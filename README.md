@@ -51,3 +51,5 @@ https://threatpost.com/charming-kitten-pounces-on-researchers/165129/
 https://www.ehackingnews.com/2021/07/researchers-learn-from-itg18-groups.html
 
 https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/
+
+https://www.securityweek.com/iran-linked-hackers-expand-arsenal-new-android-backdoor
