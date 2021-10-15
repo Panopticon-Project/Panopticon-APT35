@@ -57,3 +57,5 @@ https://www.securityweek.com/iran-linked-hackers-expand-arsenal-new-android-back
 https://threatpost.com/black-hat-charming-kitten-opsec-goofs-training-videos/168394/
 
 https://cyware.com/news/iranian-apt-itg18-targets-reformists-within-the-country-cc149c88
+
+https://www.wired.com/story/apt35-iran-hackers-phishing-telegram-bot/
