@@ -61,3 +61,5 @@ https://cyware.com/news/iranian-apt-itg18-targets-reformists-within-the-country-
 https://www.wired.com/story/apt35-iran-hackers-phishing-telegram-bot/
 
 https://www.cyberscoop.com/iran-hacker-google-app-vpn-email/
+
+https://www.bleepingcomputer.com/news/security/microsoft-warns-of-the-evolution-of-six-iranian-hacking-groups/
