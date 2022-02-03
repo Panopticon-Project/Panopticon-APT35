@@ -69,3 +69,5 @@ https://blog.certfa.com/posts/fake-interview-the-new-activity-of-charming-kitten
 https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/
 
 https://thehackernews.com/2022/02/iranian-hackers-using-new-powershell.html
+
+https://www.cybereason.com/blog/powerless-trojan-iranian-apt-phosphorus-adds-new-powershell-backdoor-for-espionage
