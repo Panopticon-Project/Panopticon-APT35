@@ -71,3 +71,7 @@ https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distr
 https://thehackernews.com/2022/02/iranian-hackers-using-new-powershell.html
 
 https://www.cybereason.com/blog/powerless-trojan-iranian-apt-phosphorus-adds-new-powershell-backdoor-for-espionage
+
+https://therecord.media/iranian-state-sponsored-group-apt35-linked-to-memento-ransomware/
+
+https://www.securityweek.com/iranian-cyberspy-group-launching-ransomware-attacks-against-us
