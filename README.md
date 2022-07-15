@@ -75,3 +75,5 @@ https://www.cybereason.com/blog/powerless-trojan-iranian-apt-phosphorus-adds-new
 https://therecord.media/iranian-state-sponsored-group-apt35-linked-to-memento-ransomware/
 
 https://www.securityweek.com/iranian-cyberspy-group-launching-ransomware-attacks-against-us
+
+https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists
