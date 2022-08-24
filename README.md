@@ -77,3 +77,5 @@ https://therecord.media/iranian-state-sponsored-group-apt35-linked-to-memento-ra
 https://www.securityweek.com/iranian-cyberspy-group-launching-ransomware-attacks-against-us
 
 https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists
+
+https://blog.google/threat-analysis-group/new-iranian-apt-data-extraction-tool/
