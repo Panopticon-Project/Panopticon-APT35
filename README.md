@@ -79,3 +79,5 @@ https://www.securityweek.com/iranian-cyberspy-group-launching-ransomware-attacks
 https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists
 
 https://blog.google/threat-analysis-group/new-iranian-apt-data-extraction-tool/
+
+https://www.securityweek.com/us-indicts-iranians-who-hacked-power-company-womens-shelter
